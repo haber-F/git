@@ -6,6 +6,7 @@
 .DS_Store
 Thumbs.db
 ehthumbs.db
+desktop.ini
 *.swp
 *.swo
 .idea/
